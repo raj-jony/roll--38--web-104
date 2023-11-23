@@ -1,0 +1,41 @@
+
+/* table{
+    
+    width: 100%;
+    border-collapse: collapse;
+} */
+tr, th, td {
+    border: 2px solid white;
+    padding: 8px;
+    /* text-align:  left; */
+}
+
+.mmm{
+    width: 500px;
+}
+
+
+/* th{
+    background-color: blue;
+   
+} */
+/* th{
+    font-size: 30px;
+} */
+/* td{
+    background-color: orchid;
+} */
+
+/* td{
+    font-size: 20px;
+}
+ body{
+    height: 500px;
+    width: 800px;
+    margin: 65px;
+    background-color: skyblue;
+}
+.cl4{
+    background-color: rgb(255, 7, 7);
+    color: aqua;
+} */
